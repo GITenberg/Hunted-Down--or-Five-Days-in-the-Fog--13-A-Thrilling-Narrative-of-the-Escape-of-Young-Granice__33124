@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '36220'
     url: http://www.gutenberg.org/2009/agents/36220
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33124#Hunted-Down--or-Five-Days-in-the-Fog--13-A-Thrilling-Narrative-of-the-Escape-of-Young-Granice_
 gutenberg_issued: '2010-07-09'
 gutenberg_type: Text
 identifiers:
