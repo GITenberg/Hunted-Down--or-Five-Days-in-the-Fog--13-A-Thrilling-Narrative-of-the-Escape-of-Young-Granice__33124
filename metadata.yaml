@@ -1,0 +1,30 @@
+_repo: Hunted-Down--or-Five-Days-in-the-Fog--13-A-Thrilling-Narrative-of-the-Escape-of-Young-Granice__33124
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Granice, Harry
+    aliases:
+    - Granice, Harry H.
+    - Granice, H. H. (Harry H.)
+    deathdate: 1915
+    gutenberg_agent_id: '36220'
+    url: http://www.gutenberg.org/2009/agents/36220
+description: ''
+gutenberg_issued: '2010-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33124'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Madden, Edward, 1850 or 1851-1874'
+- !lcc 'F850.5'
+- !lcsh 'Granice, Harry, -1915'
+title: "Hunted Down; or, Five Days in the Fog\r\nA Thrilling Narrative of the Escape\
+  \ of Young Granice from a Drunken, Infuriated Mob"
+url: http://www.gutenberg.org/ebooks/33124
